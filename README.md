@@ -1,4 +1,4 @@
-### Hey, I'm Jazmin! 👋
+## Hey, I'm Jazmin! 👋
 
 A little about me:
 - University of Chicago and Northwestern University Bootcamp graduate
