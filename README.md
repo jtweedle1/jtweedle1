@@ -22,6 +22,7 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) 
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white) 
+![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
 
 <!--
 **jtweedle1/jtweedle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
