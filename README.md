@@ -1,9 +1,9 @@
 ## Hey, I'm Jazmin! 👋
 
 A little about me:
-- University of Chicago and Northwestern University Bootcamp graduate
-- Current Software Engineering Apprentice at ![Google](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white)
-- Interested in AI and animation and their impact on the user experience
+- **University of Chicago** and **Northwestern University** Bootcamp graduate
+- Current **Software Engineering Apprentice** at **Google**
+- Interested in **AI** and **animation** and their impact on the **user experience**
 When I'm not coding, I'm out and about taking in Chicago's thriving music scene and exploring my wonderful city. I'm also an avid gamer - my love for the Pokemon games on the GameBoy Advance kicked off my interest in tech and is part of the reason why I'm in this space today. My goal is always to lead with empathy no matter what, both personally and professionally.
 
 ## Technologies 💻
