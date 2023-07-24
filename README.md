@@ -24,6 +24,9 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
 
+## Currently Working On... 🚀
+
+Currently I am deciding on my next advanced project - hopefully to incorporate both AI and complex animation.
 <!--
 **jtweedle1/jtweedle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
