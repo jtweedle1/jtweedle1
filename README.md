@@ -8,6 +8,10 @@ A little bit about me:
 
 When I'm not coding, I'm out and about taking in Chicago's thriving music scene and exploring my wonderful city. I'm also an avid gamer - my love for the Pokemon games on the GameBoy Advance kicked off my interest in tech and is part of the reason why I'm in this space today! My goal is always to lead with empathy no matter what, both personally and professionally.
 
+## Currently Working On... 🚀
+
+Currently I am deciding on my next advanced project - hopefully to incorporate both AI and complex animation.
+
 ## Technologies 💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
@@ -24,9 +28,7 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
 
-## Currently Working On... 🚀
 
-Currently I am deciding on my next advanced project - hopefully to incorporate both AI and complex animation.
 <!--
 **jtweedle1/jtweedle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
