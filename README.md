@@ -10,7 +10,7 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 
 ## Currently Working On... 🚀
 
-Currently I am deciding on my next advanced project - hopefully to incorporate both AI and complex animation.
+At the moment I am deciding on my next advanced project - hopefully to incorporate both AI and complex animation.
 
 ## Technologies 💻
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
