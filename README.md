@@ -6,7 +6,7 @@ A little bit about me:
 - Interested in **artificial intelligence** and **animation** and their impact on the **user experience**
 
 
-When I'm not coding, I'm out and about taking in Chicago's thriving music scene and exploring my wonderful city. I'm also an avid gamer - my love for the Pokemon games on the GameBoy Advance kicked off my interest in tech and is part of the reason why I'm in this space today! My goal is always to lead with empathy no matter what, both personally and professionally.
+When I'm not coding, I'm out and about taking in Chicago's thriving music scene and exploring my wonderful city. I'm also an avid gamer - my love for the Pokemon games on the GameBoy Advance kicked off my interest in tech and is part of the reason why I'm in this space today! My goal is to always lead with empathy no matter what, both personally and professionally.
 
 ## Currently Working On... 🚀
 
