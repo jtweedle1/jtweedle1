@@ -10,7 +10,7 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 
 ## Currently Working On... 🚀
 
-Check back soon! Currently I am solidifying my fundamentals in my languages and tools of choice while gearing up to work on my next advanced project - hopefully to incorporate both AI and complex animation.
+Check back soon! I am solidifying my fundamentals in my languages and tools of choice while gearing up to work on my next advanced project.
 
 ## Technologies 💻
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white) 
