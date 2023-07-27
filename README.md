@@ -10,9 +10,9 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 
 ## Currently Working On... 🚀
 
-- Completing the IBM AI Engineering Professional Certificate through coursera
-- Finalizing my portfolio
-- Solidifying my fundamentals in the languages and tools of my choice while gearing up to work on my next advanced project
+- Completing the **IBM AI Engineering Professional Certificate** through [coursera](https://www.coursera.org/professional-certificates/ai-engineer)
+- Finalizing my **portfolio**
+- Solidifying my **fundamentals** in the languages and tools of my choice while gearing up to work on my next **advanced project**
 
 ## Technologies 💻
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white) 
