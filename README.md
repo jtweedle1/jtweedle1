@@ -10,7 +10,7 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 
 ## Currently Working On... 🚀
 
-- Completing the **UX/UI for Gaming** course through [ELVTR](https://www.coursera.org/professional-certificates/ai-engineer](https://elvtr.com/course/ux-ui-for-gaming)
+- Completing the **UX/UI for Gaming** course through [ELVTR](https://elvtr.com/course/ux-ui-for-gaming)
 - Finalizing my **portfolio**
 - Deciding on my next **advanced project**
 
