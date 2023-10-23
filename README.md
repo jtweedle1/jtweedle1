@@ -10,7 +10,7 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 
 ## Currently Working On... 🚀
 
-- Completing my coding bootcamp through [Codio](codio.com) at Google
+- Completing my coding bootcamp through [Codio](https://www.codio.com/) at Google
 - Finalizing my **portfolio**
 - Deciding on my next **advanced project**
 
