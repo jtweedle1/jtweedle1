@@ -1,4 +1,4 @@
-## I'm Jazmin! 👋
+# I'm Jazmin! 👋
 
 A little bit about me:
 - Graduate from the **University of Chicago** and the **Northwestern University Full-stack Coding Bootcamp**
