@@ -1,4 +1,4 @@
-# I'm Jazmin! 👋
+# Hi, I'm Jazmin! 👋
 
 A little bit about me:
 - Current **Software Engineering Apprentice** at **Google**, graduating May 2025
