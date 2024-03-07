@@ -10,9 +10,9 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 
 ## Currently Working On... 🚀
 
-- Completing my coding bootcamp through [Codio](https://www.codio.com/) at Google
-- Finalizing my **portfolio**
-- Deciding on my next **advanced project**
+- Completing my technical instruction through [Multiverse]([https://www.codio.com/](https://www.multiverse.io/en-US)) at Google
+- Developing skills in the below technologies
+- Professional development
 
 Please note that this repository does not accurately reflect how much I am programming on a daily basis as I have a separate one for work.
 
