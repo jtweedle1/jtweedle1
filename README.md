@@ -8,13 +8,13 @@ A little bit about me:
 
 When I'm not coding, I'm out and about taking in Chicago's thriving music scene and exploring my wonderful city. I'm also an avid gamer - my love for the Pokemon games on the GameBoy Advance kicked off my interest in tech and is part of the reason why I'm in this space today! My goal is to always lead with empathy no matter what, both personally and professionally.
 
+*Please note that this repository does not accurately reflect how much I am programming on a daily basis as I have a separate one for work.*
+
 ## Currently Working On... 🚀
 
 - Completing my technical instruction through [Multiverse]([https://www.codio.com/](https://www.multiverse.io/en-US)) at Google
 - Developing skills in the below technologies
 - Professional development
-
-Please note that this repository does not accurately reflect how much I am programming on a daily basis as I have a separate one for work.
 
 ## Technologies 💻
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white) 
