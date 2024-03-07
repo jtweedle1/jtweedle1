@@ -8,7 +8,7 @@ A little bit about me:
 
 When I'm not coding, I'm out and about taking in Chicago's thriving music scene and exploring my wonderful city. I'm also an avid gamer - my love for the Pokemon games on the GameBoy Advance kicked off my interest in tech and is part of the reason why I'm in this space today! My goal is to always lead with empathy no matter what, both personally and professionally.
 
-*Please note that this repository history does not accurately reflect how much I am programming on a daily basis as I have a separate one for my apprenticeship projects.*
+*Please note that this repository history does not accurately reflect how much I am programming on a regular basis as I have a separate one for my apprenticeship projects.*
 
 ## Currently Working On... 🚀
 
