@@ -2,7 +2,7 @@
 
 A little bit about me:
 - Graduate from the **University of Chicago** and the **Northwestern University Full-stack Coding Bootcamp**
-- Current **Software Engineering Apprentice** at **Google**, graduating May 2025
+- Current **Software Engineering Apprentice** at **<span style="color:blue">G<span style="color:blue"><span style="color:red">o<span style="color:red">ogle**, graduating May 2025
 - Interested in **artificial intelligence** and **animation** and their impact on the **user experience**
 
 
