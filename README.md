@@ -13,9 +13,7 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 ## Currently Working On... 🚀
 
 - Completing my technical instruction through [Multiverse]([https://www.codio.com/](https://www.multiverse.io/en-US)) at Google
-- Developing skills in the below technologies
-- Professional development
-
+- Developing a game that will hopefully include beginner AI/ML
 ## Technologies 💻
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) 
