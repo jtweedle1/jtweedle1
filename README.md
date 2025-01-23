@@ -1,7 +1,7 @@
 # Hi, I'm Jazmin! 👋
 
 A little bit about me:
-- Current **Software Engineer** at **Google** and **YouTube**
+- Current **Software Engineer** at **Google**
 - Graduate from the **University of Chicago** and the **Northwestern University Full-stack Coding Bootcamp**
 - Interested in **artificial intelligence** and **animation** and their impact on the **user experience**
 - Doing game dev for fun!
