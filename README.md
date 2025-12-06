@@ -1,8 +1,9 @@
 # Hi, I'm Jazmin! 👋
 
 A little bit about me:
-- Current **Data Associate** at **Nextpoint**; **Data Analytics Fellow** at **COOP Careers**
+- Current **Data Associate** at **Nextpoint**, supporting legal tech
 - Former **Software Engineer** at **Google**
+- **Data Analytics Fellow Alumna** at **COOP Careers**
 - Graduate from the **University of Chicago** and the **Northwestern University Full-stack Coding Bootcamp**
 - Interested in **artificial intelligence** and its impact
 
