@@ -1,7 +1,6 @@
 # Hi, I'm Jazmin! 👋
 
 A little bit about me:
-- Current **Data Associate** at **Nextpoint**, supporting legal tech
 - Former **Software Engineer** at **Google**
 - **Data Analytics Fellow Alumna** at **COOP Careers**
 - Graduate from the **University of Chicago** and the **Northwestern University Full-stack Coding Bootcamp**
@@ -11,7 +10,7 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 
 ## Currently Working On... 🚀
 
-- LunaLearn Online
+- A personal AI-powered job board
   
 ## Technologies 💻
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white) 
