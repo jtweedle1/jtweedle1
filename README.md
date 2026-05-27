@@ -10,7 +10,7 @@ When I'm not coding, I'm out and about taking in Chicago's thriving music scene 
 
 ## Currently Working On... 🚀
 
-- A personal AI-powered job board
+- A personal AI-powered job dashboard
   
 ## Technologies 💻
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white) 
