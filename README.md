@@ -1,7 +1,7 @@
 # Hi, I'm Jazmin! 👋
 
 A little bit about me:
-- Former **Software Engineer** at **Google**
+- Former **Software Engineer** at **Google** via their apprenticeship program
 - **Data Analytics Fellow Alumna** at **COOP Careers**
 - Graduate from the **University of Chicago** and the **Northwestern University Full-stack Coding Bootcamp**
 - Interested in **artificial intelligence** and its impact
